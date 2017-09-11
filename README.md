@@ -14,9 +14,7 @@ Complete the following exercises, saving your solutions in the indicated files.
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
-
-**CHANGEME**
+The ability to use bash to traverse directories and write simple scripts is an invaluable tool. It is the control layer that allows more direct control of the actual programs and files which interact with them. Although we have both used shell languages in the past, it has been limited and these exercises have filled several holes in our knowledge. In particular, the declaration and useage of variables is much more clear, as well as the implementation of both 'for' and 'if' statements. Learning how to use 'grep' deftly would be desired, but is a topic in of itself. Using vim to create and edit simple scripts has been necessary, although it is too soon to see any large benefit to this skill as of yet.
 
 ## Honor Pledge
 
@@ -28,4 +26,5 @@ I pledge that all the work in this repository is my own with only the following 
 Signed,
 
 Logan Gantner
+
 Tim Frenzel
